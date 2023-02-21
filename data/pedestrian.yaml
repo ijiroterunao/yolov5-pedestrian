@@ -10,8 +10,8 @@
 # download: bash data/scripts/get_voc.sh
 
 # train and val data as 1) directory: path/images/, 2) file: path/images.txt, or 3) list: [path1/images/, path2/images/]
-train: /root/lxg/yolov5-pedestrian/VOCdevkit/images/train/  # 16551 images
-val: /root/lxg/yolov5-pedestrian/VOCdevkit/images/val/  # 4952 images
+train: D:/paper/yolov5-pedestrian/VOCdevkit/images/train/  # 16551 images
+val: D:/paper/yolov5-pedestrian/VOCdevkit/images/val/  # 4952 images
 
 # number of classes
 nc: 1
